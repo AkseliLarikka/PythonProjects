@@ -1,5 +1,7 @@
 # Password Generator and Strength Checker
 
+This program was made by me as a demonstration of my skills as a part of the basic programming course in my college.
+
 This Python script generates a secure random password and checks its strength using a password strength checker website. It utilizes the Selenium library for web automation and ChromeDriver for browser interaction.
 
 ## Prerequisites
