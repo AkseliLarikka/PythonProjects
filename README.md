@@ -14,6 +14,6 @@ Teen projektit käyttäen apuna erinäisiä aiheeseen liittyviä kirjoja tai net
 
 Hyvin mahdollisesti kyllä! Laitan valmiit projektit aina julkisiksi, mutta keskeneräisiä tai hylättyjä saattaa silti olla näkymättömissä.
 
-## License 
+## License
 
-PythonProjects © 2024 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+PythonProjects © 2024 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [creativecommons.org/licenses](http://creativecommons.org/licenses/by-nc-sa/4.0/)
