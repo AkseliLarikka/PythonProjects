@@ -1,4 +1,4 @@
-# Tervetuloa henkilökohtaiseen Pythonprojekti kansiooni!
+# Tervetuloa henkilökohtaiseen Pythonprojekti kansiooni
 
 ## Q&A
 
