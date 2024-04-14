@@ -1,5 +1,7 @@
 # The bagel guessing game
 
+#### From the Big book of small python projects by Al Sweigart
+
 In Bagels, a deductive logic game, you must guess a secret three-digit number based on clues.
 
 The game offers one of the following hints in response to your guess:
@@ -15,7 +17,7 @@ You have 10 tries to guess the secret number.
 ## Example run
 
 Bagels, a deductive logic game.
-    By Al Sweigart al@inventwithpython.com
+    By Al Sweigart <al@inventwithpython.com>
 
     I am thinking of a 3-digit number with no repeated digits.
     Try to guess what it is. Here are some clues:
