@@ -42,7 +42,7 @@ def tarkista_sanat():
 # Pääsilmukka, joka suorittaa tarkistuksen 5 minuutin välein
 while True:
     tarkista_sanat()
-    time.sleep(300)  # Odotetaan 5 minuuttia (300 sekuntia) ennen seuraavaa tarkistusta
+    time.sleep(60)  # Odotetaan 1 minuutti(a) (60 sekuntia) ennen seuraavaa tarkistusta
 
 # Sulje selainistunto, kun et enää tarvitse sitä
 # driver.quit()
