@@ -1,4 +1,4 @@
-# Welcome to my personal project repository!
+# Welcome to my personal project repository
 
 ## Q&A
 
