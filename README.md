@@ -9,4 +9,4 @@ For my homelab project please refer to the [Homelab folder](https://github.com/A
 
 ## License
 
-Projects © 2024 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [creativecommons.org/licenses](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Projects © 2025 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [creativecommons.org/licenses](http://creativecommons.org/licenses/by-nc-sa/4.0/)
