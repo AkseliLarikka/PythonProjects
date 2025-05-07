@@ -1,19 +1,12 @@
-# Tervetuloa henkilökohtaiseen Pythonprojekti kansiooni
+# Welcome to my personal project repository!
 
 ## Q&A
 
-### Mitä tässä kansiossa on?
+### What's in this folder?
 
-Tässä kansiossa on Python ohjelmointikielellä tekemiäni projekteja.
-
-### Mistä saat ideat projekteihin?
-
-Teen projektit käyttäen apuna erinäisiä aiheeseen liittyviä kirjoja tai netistä saamieni ideoiden mukaan. Pyrin parhaani mukaan koodien kommenteissa tai projektikansioiden omissa README.md tiedostoissa kertomaan lähteet pääidealle sekä avuksi käyttämieni sivustojen osoitteet.
-
-### Onko kansiossa enemmän projekteja kuin on näkyvissä?
-
-Hyvin mahdollisesti kyllä! Laitan valmiit projektit aina julkisiksi, mutta keskeneräisiä tai hylättyjä saattaa silti olla näkymättömissä.
+This folder has different projects that I do.
+For my homelab project please refer to the [Homelab folder](https://github.com/AkseliLarikka/HomeLab).
 
 ## License
 
-PythonProjects © 2024 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [creativecommons.org/licenses](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Projects © 2024 by Akseli Larikka is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [creativecommons.org/licenses](http://creativecommons.org/licenses/by-nc-sa/4.0/)
