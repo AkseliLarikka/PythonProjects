@@ -4,7 +4,7 @@
 
 ### What's in this folder?
 
-This folder has different projects that I do.
+This folder has different projects that I do.  
 For my homelab project please refer to the [Homelab folder](https://github.com/AkseliLarikka/HomeLab).
 
 ## License
