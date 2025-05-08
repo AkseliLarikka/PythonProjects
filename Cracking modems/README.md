@@ -24,9 +24,9 @@ The router in question is a "[Kotiboksi](https://elisa.fi/kauppa/tuote/kotiboksi
 
 ## Thought process and order of actions
 
-1. My first idea was to use some sort of network sniffer to get inside the router. After some googling I figured that would not do.
+1. My first idea was to use some sort of network sniffer to get inside the router. After some googling I figured that would not do. Mainly because I don't have and seemingly nowhere in Finland are sold fitting USB network adapters.
 2. I remembered a tool called [Kraken](https://github.com/jasonxtn/Kraken) I used in some TryHackMe exercise I once did and my angle of attack changed to brute forcing the modem. Finger's crossed the default password is still there
-3. I installed Kali Linux as a virtual machine as this seems like a fitting place to also start learning using Kali
+3. I installed Kali Linux as a virtual machine as this seems like a fitting place to also start learning using Kali. After installing I also did "sudo apt update && upgrade -y"
 4. I tried installing Kraken on Kali but ran into some python version error I couldn't be bothered to clear so I searched [the Kali tools page](https://www.kali.org/tools/) and found [bruteforce-salted-openssl](https://www.kali.org/tools/bruteforce-salted-openssl/#bruteforce-salted-openssl-1) which seems fitting for my use case
 5. Next step is to install the brute force tool and figure out how to apply it to actually brute force the wifi from the CLI
 6. Apparently I'd need a USB wifi adapter with an atheros chip (?) so for now I will try to just break in to the admin page with a wired connection
