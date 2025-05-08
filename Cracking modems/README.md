@@ -31,7 +31,8 @@ I acquired a new router and I took the old one with me to do this exercise.
 7. I connected a RJ-45 ethernet cable to the router and my PC, then I set the VirtualBox network setting to bridged adapter, ethernet port, and promiscuous mode to "allow all"  ![network settings](img/networksettings.png)
 8. Then I test to ping the modems local IP address and it seems to be working  ![ping](img/pinged.png)
 9. Looking at the NMAP tells me that domain, HTTP and HTTPS ports are open over TCP which is to be expected ![nmap](img/nmap.png)
-10. 
+10. After sleeping on this, I've settled on writing a shell script using xdotool for linux. ChatGPT helped me finalize the script.
+11.
 
 ## Note
 
