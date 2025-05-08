@@ -15,7 +15,7 @@ I acquired a new router and I took the old one with me to do this exercise.
 | **Software**              | **Version**  |
 |---------------------------|--------------|
 | VirtualBox                |   7.1.6      |
-| Kali Linux                | [Pre-built VM](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-virtualbox-amd64.7z) downloaded 7.5.2025 |
+| Kali Linux                | [Pre-built VM](https://www.kali.org/get-kali/#kali-virtual-machines) downloaded 7.5.2025 |
 | bruteforce-salted-openssl |   1.4.2      |
 | **Hardware**              | **Firmware** |
 | Huawei HG635*             | VER.A & HG635_Elisa7_C262B022     |
