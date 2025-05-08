@@ -14,11 +14,11 @@ I acquired a new router and I took the old one with me to do this exercise.
 
 | **Software**              | **Version**  |
 |---------------------------|--------------|
-| VirtualBox                | 7.1.6        |
-| Kali Linux                | 1.4.2        |
-| bruteforce-salted-openssl |              |
+| VirtualBox                |   7.1.6      |
+| Kali Linux                | [Pre-built VM](https://cdimage.kali.org/kali-2025.1c/kali-linux-2025.1c-virtualbox-amd64.7z) downloaded 7.5.2025 |
+| bruteforce-salted-openssl |   1.4.2      |
 | **Hardware**              | **Firmware** |
-| Huawei HG635*              |    VER.A & HG635_Elisa7_C262B022     |
+| Huawei HG635*             | VER.A & HG635_Elisa7_C262B022     |
 
 The router in question is a "[Kotiboksi](https://elisa.fi/kauppa/tuote/kotiboksi-hg635?deviceVariant=HG635)" brand router distributed by the Finnish ISP Elisa. Altough the brand of the router is irrelevant, since in this exercise we are connected to it through an ethernet cable. Meaning whatever is done here, would work on (almost) any other router.
 
